@@ -1,7 +1,4 @@
-### Hi there 👋
-
 <img src="https://github.com/begemotv/begemotv/blob/main/hello-01.jpg" alt="Hi image" />
-
 
 <!--
 **begemotv/begemotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
