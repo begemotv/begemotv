@@ -12,5 +12,5 @@ Hi everyone! I'm junior front-end web developer and my main interest is React li
 - ⚡ Interesting fact: ... I have master degree in Architecture
 
 Here are links to my CV: 
-- https://github.com/begemotv/begemotv/blob/main/cv_avdyeyev_react.pdf (links active after downloading)
+- https://github.com/begemotv/begemotv/blob/main/cv_avdyeyev_jan.pdf (links active after downloading)
 - https://issuu.com/begemotv/docs/cv_avdyeyev_react (links active inside app)
