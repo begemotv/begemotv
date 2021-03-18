@@ -6,7 +6,7 @@
 
 Hi everyone! I'm junior front-end web developer and my main interest is React library. Have architectural degree and used to work in game development for 3 years.
 
-- 🔭 I’m currently working on ... Interactive Theatre and Skarb Platform projects (in full remote teams)
+- 🔭 I’m currently working full-time in Opinov8
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... v.avdyeyev@yahoo.com
 - ⚡ Interesting fact: ... I have master degree in Architecture
